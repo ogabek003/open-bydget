@@ -24,7 +24,7 @@ export default function App() {
   Telegram
 </a>
 
-          <a href="https://instagram.com/sening_kanaling" className="btn btn--ig" target="_blank" rel="noreferrer">
+          <a href="https://instagram.com/open_budget_2025" className="btn btn--ig" target="_blank" rel="noreferrer">
             <FaInstagram style={{ marginRight: "8px" }} />
             Instagram
           </a>
